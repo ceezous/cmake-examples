@@ -9,6 +9,7 @@
 - 关于`target`
   - [Why does CMake make a distinction between a "target" and a "command"?](https://stackoverflow.com/questions/11971917/why-does-cmake-make-a-distinction-between-a-target-and-a-command)
     - In general, targets comprise **executables** or **libraries** which are **defined** by calling add_executable or add_library and which can have many properties set.
+- install的作用
 
 ## commands
 - add_library()
